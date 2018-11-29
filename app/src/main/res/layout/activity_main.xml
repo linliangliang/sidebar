@@ -32,6 +32,7 @@
         android:layout_gravity="left"
         app:headerLayout="@layout/head"
         app:menu="@menu/new_menu"></android.support.design.widget.NavigationView>
+    
 
 </android.support.v4.widget.DrawerLayout>
 
