@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/favorite"
+            android:checkable="true"
+            android:icon="@mipmap/usericon_32"
+            android:title="社区" />
+    </group>
+    <item
+        android:id="@+id/wallet"
+        android:icon="@mipmap/usericon_32"
+        android:title="问答" />
+    <item
+        android:id="@+id/photo"
+        android:icon="@mipmap/usericon_32"
+        android:title="我的" />
+    <item
+        android:id="@+id/dress"
+        android:icon="@mipmap/usericon_32"
+        android:title="设置" />
+</menu>
